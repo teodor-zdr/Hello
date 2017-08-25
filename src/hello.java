@@ -54,7 +54,7 @@ public class hello {
                             .getElementsByTagName("first-name")
                             .item(0)
                             .getTextContent());
-                    System.out.println("Billing Name2 : "
+                    System.out.println("Billing Name 2 : "
                             + eElement
                             .getElementsByTagName("last-name")
                             .item(0)
